@@ -10,7 +10,7 @@ body
 }
 #cabecera
 {
-    background: url("C:\Users\Santiago Suárez\Desktop\proyecto1\imagenes/Logo.png") no-repeat center center 10px 10px;
+    background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
